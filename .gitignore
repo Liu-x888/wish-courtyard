@@ -1,0 +1,13 @@
+node_modules
+dist
+.DS_Store
+*.local
+*.log
+*.tsbuildinfo
+.edge-auth
+.edge-profile*
+.vite*.log
+visual-*.png
+start-screen*.png
+vite.config.js
+vite.config.d.ts
